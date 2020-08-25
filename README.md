@@ -14,6 +14,8 @@ it's game over.
 
 **Hand-drawn**: backgrounds + clouds + rocks + chicken-butthole
 
+**YouTube video**: https://youtu.be/U_LwvFPMIXg
+
 **References**:
 * Bunny Sprites: https://www.spriters-resource.com/mobile/cookierunovenbreak/sheet/129242/
 * Mountain Sprites (in-game mountains have been deformed from original image): https://www.pinterest.com/pin/456833955943506312/?fbclid=IwAR0Wvn1KoW4cvKiVHxk77kw8y18EkKF7ytx7ca5kb8nCDsM0_MoYc2inLP8
