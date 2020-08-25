@@ -12,8 +12,9 @@ it's game over.
 
 **Unity version**: 2019.3.0f6
 
-**Hand-drawn**: backgrounds + clouds + rocks
+**Hand-drawn**: backgrounds + clouds + rocks + chicken-butthole
 
 **References**:
 * Bunny Sprites: https://www.spriters-resource.com/mobile/cookierunovenbreak/sheet/129242/
-* Mountain Sprites: update when found link
+* Mountain Sprites (in-game mountains have been deformed from original image): https://www.pinterest.com/pin/456833955943506312/?fbclid=IwAR0Wvn1KoW4cvKiVHxk77kw8y18EkKF7ytx7ca5kb8nCDsM0_MoYc2inLP8
+
